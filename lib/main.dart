@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: WebView(
-            initialUrl: 'https://confluence.zonarsystems.net',
+            initialUrl: 'https://www.google.com',
             javascriptMode: JavascriptMode.unrestricted
         ),
       ),
